@@ -3,11 +3,7 @@
 ## Tech Stack
 
 - This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-- App is built with [@livekit/components-react](https://github.com/livekit/components-js/) library.
-
-## Demo
-
-Give it a try at https://meet.livekit.io.
+- App is built with [@livekit/components-react](https://github.com/livekit/components-js/) librar
 
 ## Dev Setup
 
